@@ -71,11 +71,11 @@
         {
             "institution": "University",
             "area": "Placeholder",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["Placeholder"]
+            "studyType": "Bachelor of Technology",
+            "startDate": "2023-08-17",
+            "endDate": "2027-06-01",
+            "cgpa": "9.4",
+            "courses": ["Computer Science Engineering"]
         }
     ],
     "awards": [
