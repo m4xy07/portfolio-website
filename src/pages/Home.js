@@ -23,7 +23,6 @@ export const Home = () => {
     <>
       <div className={classes.root}>
         <DisplacementSphere />
-        <LogoLink />
         <Content />
         <ThemeToggle />
         <Hidden smDown>
