@@ -28,7 +28,7 @@
             {
                 "network": "LinkedIn",
                 "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "url": "https://www.linkedin.com/in/aman-shaikh-4b28b5292/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
@@ -118,8 +118,8 @@
     ],
     "interests": [
         {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
+            "name": "Coding",
+            "keywords": ["Backend", "App-Dev"]
         }
     ],
     "references": [
