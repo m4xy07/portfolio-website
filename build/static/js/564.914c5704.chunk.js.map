@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/564.914c5704.chunk.js","mappings":"oJAEO,MAAMA,EAASA,KACXC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,Y","sources":["pages/Resume.js"],"sourcesContent":["import React from \"react\";\n\nexport const Resume = () => {\n    return <div>Upcoming</div>;\n};\n"],"names":["Resume","_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,20 @@
+{
+    "name": "m4xy | Portfolio",
+    "short_name": "m4xy.org",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#3c00bf",
+    "background_color": "#171c28"
+}
