@@ -7,7 +7,6 @@
     "author": "Aman Shaikh <hey@m4xy.org>",
     "license": "MIT",
     "dependencies": {
-        "@types/react": "18.0.25",
         "@material-ui/core": "^4.11.0",
         "@material-ui/icons": "^4.9.1",
         "@material-ui/lab": "^4.0.0-alpha.56",
