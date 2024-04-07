@@ -1,0 +1,131 @@
+{
+    "basics": {
+        "name": "Aman Shaikh",
+        "label": "Computer Science Enthusiast",
+        "email": "hey@m4xy.org",
+        "phone": "Redacted",
+        "picture": "logo.png",
+        "x_title": "Hey, I'm",
+        "job": "Student pursuing CSE",
+        "description": "Hey, I'm Aman Shaikh, a enthusiastic coder driven by a passion for crafting elegant solutions to complex problems. I am pursuing Computer Science Engineering based in Pune, India.",
+        "summary": "based in Pune, India.",
+        "url": "https://m4xy.org",
+        "location": {
+            "address": "XX XXXXX",
+            "postalCode": "XXXXX",
+            "city": "Pune",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "hey@m4xy.org",
+                "url": "mailto:hey@m4xy.org",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "jolienhoop",
+                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "m4xy07",
+                "url": "https://github.com/m4xy07",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Resume",
+                "username": "m4xy07",
+                "url": "https://m4xy.org/404",
+                "x_icon": "fab fa-page"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Placeholder"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Placeholder'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Placeholder",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["Placeholder"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "Placeholder"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Placeholder",
+            "level": "Placeholder",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Marathi",
+            "fluency": "Working Profeciency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}

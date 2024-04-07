@@ -1,0 +1,3 @@
+Sitemap: https://m4xy.org/sitemap.xml
+User-agent: *
+Disallow: /test/
