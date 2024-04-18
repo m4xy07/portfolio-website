@@ -43,6 +43,18 @@
                 "username": "Résumé",
                 "url": "https://m4xy.org/404",
                 "x_icon": "fa fa-file"
+            },
+            {
+                "network": "Weather Station",
+                "username": "Arduino Based Weather Station",
+                "url": "http://weather.m4xy.org",
+                "x_icon": "fa fa-thermometer-quarter"
+            },
+            {
+                "network": "Crop Suitability Station",
+                "username": "Arduino Based Crop Suitability Station",
+                "url": "http://crop.m4xy.org",
+                "x_icon": "fa fa-bar-chart"
             }
         ]
     },
@@ -77,6 +89,15 @@
             "endDate": "2027-06-01",
             "cgpa": "9.4",
             "courses": ["Computer Science Engineering"]
+        },
+        {
+            "institution": "Grade 1-12",
+            "area": "Pimpri",
+            "studyType": "Schooling with Computer Science subject",
+            "startDate": "2010-06-10",
+            "endDate": "2022-06-01",
+            "grade": "A",
+            "Optional_Subjects": ["Computer Science (Java/HTML/CSS/TinkerCAD"]
         }
     ],
     "awards": [
@@ -89,7 +110,7 @@
     ],
     "publications": [
         {
-            "name": "Publication",
+            "name": "Publication Placeholder",
             "publisher": "Company",
             "releaseDate": "2014-10-01",
             "website": "http://publication.com",
@@ -98,10 +119,41 @@
     ],
     "skills": [
         {
-            "name": "Placeholder",
-            "level": "Placeholder",
+            "name": "Team Work",
+            "level": "8",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        },
+        {
+            "name": "Leadership",
+            "level": "8",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        },
+        {
+            "name": "Punctuality",
+            "level": "9.5",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        },
+        {
+            "name": "Creativity",
+            "level": "7.8",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        },
+        {
+            "name": "Communication",
+            "level": "9",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        },
+        {
+            "name": "Soft-Skills",
+            "level": "8",
+            "keywords": ["Placeholder", "Placeholder", "Placeholder"]
+        },
+        {
+            "name": "Adaptability",
+            "level": "9.4",
             "keywords": ["Placeholder", "Placeholder", "Placeholder"]
         }
+        
     ],
     "languages": [
         {
@@ -115,6 +167,10 @@
         {
             "language": "Marathi",
             "fluency": "Working Profeciency"
+        },
+        {
+            "language": "Japanese",
+            "fluency": "Learning"
         }
     ],
     "interests": [
