@@ -54,7 +54,7 @@
                 "network": "Crop Suitability Station",
                 "username": "Arduino Based Crop Suitability Station",
                 "url": "http://crop.m4xy.org",
-                "x_icon": "fa fa-bar-chart"
+                "x_icon": "fa fa-area-chart"
             }
         ]
     },
@@ -181,7 +181,7 @@
     ],
     "references": [
         {
-            "name": "Jane Doe",
+            "name": "Placeholder",
             "reference": "Reference..."
         }
     ]
