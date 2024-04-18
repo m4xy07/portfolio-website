@@ -42,19 +42,19 @@
                 "network": "Resume",
                 "username": "Résumé",
                 "url": "https://m4xy.org/404",
-                "x_icon": "fa fa-file"
+                "x_icon": "fab fa-file"
             },
             {
                 "network": "Weather Station",
                 "username": "Arduino Based Weather Station",
                 "url": "http://weather.m4xy.org",
-                "x_icon": "fa fa-thermometer-quarter"
+                "x_icon": "fab fa-thermometer-quarter"
             },
             {
                 "network": "Crop Suitability Station",
                 "username": "Arduino Based Crop Suitability Station",
                 "url": "http://crop.m4xy.org",
-                "x_icon": "fa fa-area-chart"
+                "x_icon": "fab fa-leaf"
             }
         ]
     },
