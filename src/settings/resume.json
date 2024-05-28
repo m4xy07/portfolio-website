@@ -55,6 +55,12 @@
                 "username": "Arduino Based Crop Suitability Station",
                 "url": "http://crop.m4xy.org",
                 "x_icon": "fa fa-leaf"
+            },
+            {
+                "network": "Quotes",
+                "username": "Random Programming Quotes",
+                "url": "http://quotes.m4xy.org",
+                "x_icon": "fa fa-quote-left"
             }
         ]
     },
