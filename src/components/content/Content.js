@@ -30,23 +30,25 @@ export const Content = () => {
     ];
     const [index, setIndex] = useState(0);
 
-    // eslint-disable-next-line react-hooks/exhaustive-deps
     useEffect(() => {
         const timer = setInterval(() => {     
+            
             setIndex((prevIndex) => (prevIndex + 1) % sentences.length);
         }, 8000);
 
         return () => clearInterval(timer);
+        // eslint-disable-next-line
     }, []);
+    
 
     return (
         <Container component="main" className={`${classes.main}`} maxWidth="sm">
             <Typography variant="h2" component="h1" gutterBottom>
                 <TextDecrypt text={`${Resume.basics.x_title} ${FirstName}👋`} />
             </Typography>
-              <Typography variant="h5" component="h2" gutterBottom>
+              <Typography variant="h6" component="h3" gutterBottom>
                 <TextDecrypt text={sentences[index]} />
             </Typography>
         </Container>
     );
-};
+};  
